@@ -25,6 +25,9 @@ hemoji(<span class="string">'{input}'</span>, &lbrace; length: <span class="numb
         </code>
     </pre>
     <p>More information and source code on Github at <a href="https://github.com/keraf/hemoji">keraf/hemoji</a>.</p>
+    <div class="npm">
+        <a href="https://www.npmjs.com/package/hemoji"><img src="https://nodei.co/npm/hemoji.png?downloads=true&downloadRank=true&stars=true" alt="NPM Info" /></a>
+    </div>
 </usage>
 
 <style>
@@ -57,5 +60,13 @@ hemoji(<span class="string">'{input}'</span>, &lbrace; length: <span class="numb
 
     .keyword {
         color: #469cd6;
+    }
+
+    .npm {
+        text-align: center;
+    }
+
+    img {
+        width: 90%;
     }
 </style>
